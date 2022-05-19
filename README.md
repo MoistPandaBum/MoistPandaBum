@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on a 2d game
-- 🌱 I’m currently learning solo game development
-- 👯 I’m looking to collaborate on nothing right now
+- 🔭 I’m currently working on cs50 course.
+- 🌱 I’m currently learning programming.
+- 👯 I’m looking to collaborate on nothing right now.
 - 📫 How to reach me Via: 
 - Email - lpandajacksonl@gmail.com 
 - Twitter - MoistPandaBum
